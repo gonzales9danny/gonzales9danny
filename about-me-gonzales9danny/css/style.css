@@ -1,0 +1,29 @@
+body {
+    font-family: Josefin Slab;
+    background-color:#E0CB53 ;
+    color: #4F41E0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Luckiest Guy;
+    font-size: 75pt;
+}
+header { 
+    text-align: center;
+}
+#hero, footer {
+    color: #E0CB53;
+    border:5px solid #7163FF;
+    background-color: #261C94;
+    text-align: center;
+    padding: 10px;
+
+}
+#hero img {
+    width: 350px;
+}
+
+#bio {
+    text-align: center;
+    
+}
